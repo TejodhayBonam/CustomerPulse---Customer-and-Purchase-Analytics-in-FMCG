@@ -1,6 +1,6 @@
 # Customer Analytics in FMCG Industry 
 
-#### by Sooyeon Won 
+#### by Tejodhay Bonam 
 
 ### Keywords 
 
